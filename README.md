@@ -52,10 +52,13 @@ The analysis results will be saved as plots and data files in the `results` dire
 
 - Correlation matrix plot
 ![image](https://github.com/ahmed-m-elgammal/world-happiness-report-/assets/102481695/dbda672b-4054-40dc-a8e7-b544c7016a4f)
+
 - Correlation Plot of effect of region
 ![image](https://github.com/ahmed-m-elgammal/world-happiness-report-/assets/102481695/e48a2e56-68b7-4829-b6e3-6e4f57722e82)
+
 - Shapiro-Wilk test results
 ![image](https://github.com/ahmed-m-elgammal/world-happiness-report-/assets/102481695/595bed0c-7811-4ef9-ad4b-d2f8cb3db70a)
+
 - Regression coefficients and performance metrics
 >R-squared: 0.9922
 
